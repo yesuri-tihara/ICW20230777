@@ -1,0 +1,481 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Sri Lanka,LKA,2015,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,276.928623
+Sri Lanka,LKA,2000,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,268.672784
+Sri Lanka,LKA,1990,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,247.8605941
+Sri Lanka,LKA,2015,Urban land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.UR.ZS,0.425952534
+Sri Lanka,LKA,2000,Urban land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.UR.ZS,0.413253971
+Sri Lanka,LKA,1990,Urban land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.UR.ZS,0.381242094
+Sri Lanka,LKA,2015,Urban land area (sq. km),AG.LND.TOTL.UR.K2,3627.830501
+Sri Lanka,LKA,2000,Urban land area (sq. km),AG.LND.TOTL.UR.K2,3035.135087
+Sri Lanka,LKA,1990,Urban land area (sq. km),AG.LND.TOTL.UR.K2,2517.584528
+Sri Lanka,LKA,2022,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Sri Lanka,LKA,2021,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Sri Lanka,LKA,2020,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Sri Lanka,LKA,2019,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Sri Lanka,LKA,2018,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Sri Lanka,LKA,2017,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Sri Lanka,LKA,2016,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99
+Sri Lanka,LKA,2015,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.6
+Sri Lanka,LKA,2014,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,98.8
+Sri Lanka,LKA,2013,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,98
+Sri Lanka,LKA,2012,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,97.3
+Sri Lanka,LKA,2011,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,96.8
+Sri Lanka,LKA,2010,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,95.6
+Sri Lanka,LKA,2009,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,95.6
+Sri Lanka,LKA,2008,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,94.2
+Sri Lanka,LKA,2007,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,95.3
+Sri Lanka,LKA,2006,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,94.4
+Sri Lanka,LKA,2005,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,92
+Sri Lanka,LKA,2004,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,91.3
+Sri Lanka,LKA,2003,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,90.6
+Sri Lanka,LKA,2002,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,91.3
+Sri Lanka,LKA,2001,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,85.3
+Sri Lanka,LKA,2000,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,88.7
+Sri Lanka,LKA,2020,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,19.96444086
+Sri Lanka,LKA,2019,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,19.77980365
+Sri Lanka,LKA,2018,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,20.84783509
+Sri Lanka,LKA,2017,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,18.34920163
+Sri Lanka,LKA,2016,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,19.52137197
+Sri Lanka,LKA,2015,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,17.91170462
+Sri Lanka,LKA,2014,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,19.78312654
+Sri Lanka,LKA,2013,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,21.9721782
+Sri Lanka,LKA,2012,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,20.91318537
+Sri Lanka,LKA,2011,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,19.30672088
+Sri Lanka,LKA,2010,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,22.04581633
+Sri Lanka,LKA,2009,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,23.33876057
+Sri Lanka,LKA,2008,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,24.40355857
+Sri Lanka,LKA,2007,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,25.24261851
+Sri Lanka,LKA,2006,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,25.85834859
+Sri Lanka,LKA,2005,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,26.25315698
+Sri Lanka,LKA,2004,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,26.49286042
+Sri Lanka,LKA,2003,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,26.64635358
+Sri Lanka,LKA,2002,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,26.72066158
+Sri Lanka,LKA,2001,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,26.72280951
+Sri Lanka,LKA,2000,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,26.65982245
+Sri Lanka,LKA,1999,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,26.43566001
+Sri Lanka,LKA,1998,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,26.03760417
+Sri Lanka,LKA,1997,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,25.59766362
+Sri Lanka,LKA,1996,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,25.24784705
+Sri Lanka,LKA,1995,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,25.12016314
+Sri Lanka,LKA,1994,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,25.18245335
+Sri Lanka,LKA,1993,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,25.31897491
+Sri Lanka,LKA,1992,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,25.53636022
+Sri Lanka,LKA,1991,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,25.84124168
+Sri Lanka,LKA,1990,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,26.24025171
+Sri Lanka,LKA,2017,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,45.53841726
+Sri Lanka,LKA,2016,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,69.06296284
+Sri Lanka,LKA,2015,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+Sri Lanka,LKA,2014,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+Sri Lanka,LKA,2013,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+Sri Lanka,LKA,2012,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+Sri Lanka,LKA,2011,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+Sri Lanka,LKA,2010,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+Sri Lanka,LKA,2005,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+Sri Lanka,LKA,2000,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+Sri Lanka,LKA,1995,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+Sri Lanka,LKA,1990,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100
+Sri Lanka,LKA,2022,Population density (people per sq. km of land area),EN.POP.DNST,358.5677336
+Sri Lanka,LKA,2021,Population density (people per sq. km of land area),EN.POP.DNST,358.1635952
+Sri Lanka,LKA,2020,Population density (people per sq. km of land area),EN.POP.DNST,354.3323634
+Sri Lanka,LKA,2019,Population density (people per sq. km of land area),EN.POP.DNST,352.4316946
+Sri Lanka,LKA,2018,Population density (people per sq. km of land area),EN.POP.DNST,350.284495
+Sri Lanka,LKA,2017,Population density (people per sq. km of land area),EN.POP.DNST,346.468906
+Sri Lanka,LKA,2016,Population density (people per sq. km of land area),EN.POP.DNST,342.6720308
+Sri Lanka,LKA,2015,Population density (people per sq. km of land area),EN.POP.DNST,338.8105278
+Sri Lanka,LKA,2014,Population density (people per sq. km of land area),EN.POP.DNST,331.3347154
+Sri Lanka,LKA,2013,Population density (people per sq. km of land area),EN.POP.DNST,328.2570563
+Sri Lanka,LKA,2012,Population density (people per sq. km of land area),EN.POP.DNST,337.577069
+Sri Lanka,LKA,2011,Population density (people per sq. km of land area),EN.POP.DNST,335.0191038
+Sri Lanka,LKA,2010,Population density (people per sq. km of land area),EN.POP.DNST,332.946723
+Sri Lanka,LKA,2009,Population density (people per sq. km of land area),EN.POP.DNST,330.9908308
+Sri Lanka,LKA,2008,Population density (people per sq. km of land area),EN.POP.DNST,328.9647265
+Sri Lanka,LKA,2007,Population density (people per sq. km of land area),EN.POP.DNST,326.78273
+Sri Lanka,LKA,2006,Population density (people per sq. km of land area),EN.POP.DNST,324.5480944
+Sri Lanka,LKA,2005,Population density (people per sq. km of land area),EN.POP.DNST,322.3811832
+Sri Lanka,LKA,2004,Population density (people per sq. km of land area),EN.POP.DNST,320.3253867
+Sri Lanka,LKA,2003,Population density (people per sq. km of land area),EN.POP.DNST,318.1553341
+Sri Lanka,LKA,2002,Population density (people per sq. km of land area),EN.POP.DNST,315.8308404
+Sri Lanka,LKA,2001,Population density (people per sq. km of land area),EN.POP.DNST,312.5556052
+Sri Lanka,LKA,2000,Population density (people per sq. km of land area),EN.POP.DNST,307.6551427
+Sri Lanka,LKA,1999,Population density (people per sq. km of land area),EN.POP.DNST,302.1006379
+Sri Lanka,LKA,1998,Population density (people per sq. km of land area),EN.POP.DNST,296.5396747
+Sri Lanka,LKA,1997,Population density (people per sq. km of land area),EN.POP.DNST,290.993462
+Sri Lanka,LKA,1996,Population density (people per sq. km of land area),EN.POP.DNST,285.5209376
+Sri Lanka,LKA,1995,Population density (people per sq. km of land area),EN.POP.DNST,280.0840057
+Sri Lanka,LKA,1994,Population density (people per sq. km of land area),EN.POP.DNST,275.4867326
+Sri Lanka,LKA,1993,Population density (people per sq. km of land area),EN.POP.DNST,271.5024398
+Sri Lanka,LKA,1992,Population density (people per sq. km of land area),EN.POP.DNST,266.9316536
+Sri Lanka,LKA,1991,Population density (people per sq. km of land area),EN.POP.DNST,262.722915
+Sri Lanka,LKA,1990,Population density (people per sq. km of land area),EN.POP.DNST,260.7631638
+Sri Lanka,LKA,1989,Population density (people per sq. km of land area),EN.POP.DNST,259.1063148
+Sri Lanka,LKA,1988,Population density (people per sq. km of land area),EN.POP.DNST,256.3964439
+Sri Lanka,LKA,1987,Population density (people per sq. km of land area),EN.POP.DNST,253.8124063
+Sri Lanka,LKA,1986,Population density (people per sq. km of land area),EN.POP.DNST,250.8572158
+Sri Lanka,LKA,1985,Population density (people per sq. km of land area),EN.POP.DNST,247.8736087
+Sri Lanka,LKA,1984,Population density (people per sq. km of land area),EN.POP.DNST,246.2423856
+Sri Lanka,LKA,1983,Population density (people per sq. km of land area),EN.POP.DNST,245.3961729
+Sri Lanka,LKA,1982,Population density (people per sq. km of land area),EN.POP.DNST,243.7660182
+Sri Lanka,LKA,1981,Population density (people per sq. km of land area),EN.POP.DNST,240.7815978
+Sri Lanka,LKA,1980,Population density (people per sq. km of land area),EN.POP.DNST,236.77203
+Sri Lanka,LKA,1979,Population density (people per sq. km of land area),EN.POP.DNST,232.4926487
+Sri Lanka,LKA,1978,Population density (people per sq. km of land area),EN.POP.DNST,228.1953118
+Sri Lanka,LKA,1977,Population density (people per sq. km of land area),EN.POP.DNST,224.0371711
+Sri Lanka,LKA,1976,Population density (people per sq. km of land area),EN.POP.DNST,220.0090895
+Sri Lanka,LKA,1975,Population density (people per sq. km of land area),EN.POP.DNST,216.0577898
+Sri Lanka,LKA,1974,Population density (people per sq. km of land area),EN.POP.DNST,212.1781694
+Sri Lanka,LKA,1973,Population density (people per sq. km of land area),EN.POP.DNST,208.2748525
+Sri Lanka,LKA,1972,Population density (people per sq. km of land area),EN.POP.DNST,204.2609632
+Sri Lanka,LKA,1971,Population density (people per sq. km of land area),EN.POP.DNST,200.158029
+Sri Lanka,LKA,1970,Population density (people per sq. km of land area),EN.POP.DNST,195.935417
+Sri Lanka,LKA,1969,Population density (people per sq. km of land area),EN.POP.DNST,191.5780258
+Sri Lanka,LKA,1968,Population density (people per sq. km of land area),EN.POP.DNST,187.1485887
+Sri Lanka,LKA,1967,Population density (people per sq. km of land area),EN.POP.DNST,182.7033647
+Sri Lanka,LKA,1966,Population density (people per sq. km of land area),EN.POP.DNST,178.3436135
+Sri Lanka,LKA,1965,Population density (people per sq. km of land area),EN.POP.DNST,174.0865093
+Sri Lanka,LKA,1964,Population density (people per sq. km of land area),EN.POP.DNST,169.8835433
+Sri Lanka,LKA,1963,Population density (people per sq. km of land area),EN.POP.DNST,165.7636741
+Sri Lanka,LKA,1962,Population density (people per sq. km of land area),EN.POP.DNST,161.756562
+Sri Lanka,LKA,1961,Population density (people per sq. km of land area),EN.POP.DNST,157.8595439
+Sri Lanka,LKA,2015,Urban population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.UR.ZS,2.370427696
+Sri Lanka,LKA,2000,Urban population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.UR.ZS,2.39952463
+Sri Lanka,LKA,1990,Urban population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.UR.ZS,2.321628569
+Sri Lanka,LKA,2023,Population in largest city,EN.URB.LCTY,632543
+Sri Lanka,LKA,2022,Population in largest city,EN.URB.LCTY,625637
+Sri Lanka,LKA,2021,Population in largest city,EN.URB.LCTY,619001
+Sri Lanka,LKA,2020,Population in largest city,EN.URB.LCTY,612535
+Sri Lanka,LKA,2019,Population in largest city,EN.URB.LCTY,606158
+Sri Lanka,LKA,2018,Population in largest city,EN.URB.LCTY,599821
+Sri Lanka,LKA,2017,Population in largest city,EN.URB.LCTY,593517
+Sri Lanka,LKA,2016,Population in largest city,EN.URB.LCTY,587279
+Sri Lanka,LKA,2015,Population in largest city,EN.URB.LCTY,581107
+Sri Lanka,LKA,2014,Population in largest city,EN.URB.LCTY,575000
+Sri Lanka,LKA,2013,Population in largest city,EN.URB.LCTY,568957
+Sri Lanka,LKA,2012,Population in largest city,EN.URB.LCTY,562985
+Sri Lanka,LKA,2011,Population in largest city,EN.URB.LCTY,566723
+Sri Lanka,LKA,2010,Population in largest city,EN.URB.LCTY,574323
+Sri Lanka,LKA,2009,Population in largest city,EN.URB.LCTY,582025
+Sri Lanka,LKA,2008,Population in largest city,EN.URB.LCTY,589820
+Sri Lanka,LKA,2007,Population in largest city,EN.URB.LCTY,597740
+Sri Lanka,LKA,2006,Population in largest city,EN.URB.LCTY,605756
+Sri Lanka,LKA,2005,Population in largest city,EN.URB.LCTY,613880
+Sri Lanka,LKA,2004,Population in largest city,EN.URB.LCTY,622101
+Sri Lanka,LKA,2003,Population in largest city,EN.URB.LCTY,630455
+Sri Lanka,LKA,2002,Population in largest city,EN.URB.LCTY,638910
+Sri Lanka,LKA,2001,Population in largest city,EN.URB.LCTY,646966
+Sri Lanka,LKA,2000,Population in largest city,EN.URB.LCTY,643911
+Sri Lanka,LKA,1999,Population in largest city,EN.URB.LCTY,640862
+Sri Lanka,LKA,1998,Population in largest city,EN.URB.LCTY,637832
+Sri Lanka,LKA,1997,Population in largest city,EN.URB.LCTY,634816
+Sri Lanka,LKA,1996,Population in largest city,EN.URB.LCTY,631818
+Sri Lanka,LKA,1995,Population in largest city,EN.URB.LCTY,628827
+Sri Lanka,LKA,1994,Population in largest city,EN.URB.LCTY,625854
+Sri Lanka,LKA,1993,Population in largest city,EN.URB.LCTY,622894
+Sri Lanka,LKA,1992,Population in largest city,EN.URB.LCTY,619953
+Sri Lanka,LKA,1991,Population in largest city,EN.URB.LCTY,617018
+Sri Lanka,LKA,1990,Population in largest city,EN.URB.LCTY,614100
+Sri Lanka,LKA,1989,Population in largest city,EN.URB.LCTY,611197
+Sri Lanka,LKA,1988,Population in largest city,EN.URB.LCTY,608311
+Sri Lanka,LKA,1987,Population in largest city,EN.URB.LCTY,605431
+Sri Lanka,LKA,1986,Population in largest city,EN.URB.LCTY,602568
+Sri Lanka,LKA,1985,Population in largest city,EN.URB.LCTY,599719
+Sri Lanka,LKA,1984,Population in largest city,EN.URB.LCTY,596887
+Sri Lanka,LKA,1983,Population in largest city,EN.URB.LCTY,594061
+Sri Lanka,LKA,1982,Population in largest city,EN.URB.LCTY,591252
+Sri Lanka,LKA,1981,Population in largest city,EN.URB.LCTY,588456
+Sri Lanka,LKA,1980,Population in largest city,EN.URB.LCTY,585715
+Sri Lanka,LKA,1979,Population in largest city,EN.URB.LCTY,582994
+Sri Lanka,LKA,1978,Population in largest city,EN.URB.LCTY,580289
+Sri Lanka,LKA,1977,Population in largest city,EN.URB.LCTY,577597
+Sri Lanka,LKA,1976,Population in largest city,EN.URB.LCTY,574921
+Sri Lanka,LKA,1975,Population in largest city,EN.URB.LCTY,572250
+Sri Lanka,LKA,1974,Population in largest city,EN.URB.LCTY,569595
+Sri Lanka,LKA,1973,Population in largest city,EN.URB.LCTY,566952
+Sri Lanka,LKA,1972,Population in largest city,EN.URB.LCTY,564326
+Sri Lanka,LKA,1971,Population in largest city,EN.URB.LCTY,560657
+Sri Lanka,LKA,1970,Population in largest city,EN.URB.LCTY,554267
+Sri Lanka,LKA,1969,Population in largest city,EN.URB.LCTY,547950
+Sri Lanka,LKA,1968,Population in largest city,EN.URB.LCTY,541713
+Sri Lanka,LKA,1967,Population in largest city,EN.URB.LCTY,535531
+Sri Lanka,LKA,1966,Population in largest city,EN.URB.LCTY,529428
+Sri Lanka,LKA,1965,Population in largest city,EN.URB.LCTY,523394
+Sri Lanka,LKA,1964,Population in largest city,EN.URB.LCTY,517437
+Sri Lanka,LKA,1963,Population in largest city,EN.URB.LCTY,511470
+Sri Lanka,LKA,1962,Population in largest city,EN.URB.LCTY,502469
+Sri Lanka,LKA,1961,Population in largest city,EN.URB.LCTY,493627
+Sri Lanka,LKA,1960,Population in largest city,EN.URB.LCTY,484952
+Sri Lanka,LKA,2023,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,14.94127357
+Sri Lanka,LKA,2022,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,14.82496978
+Sri Lanka,LKA,2021,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,14.81351986
+Sri Lanka,LKA,2020,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,14.93367875
+Sri Lanka,LKA,2019,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,14.95915192
+Sri Lanka,LKA,2018,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,14.9814836
+Sri Lanka,LKA,2017,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,15.0552284
+Sri Lanka,LKA,2016,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,15.12210383
+Sri Lanka,LKA,2015,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,15.17931146
+Sri Lanka,LKA,2014,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,15.19019712
+Sri Lanka,LKA,2013,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,15.18815245
+Sri Lanka,LKA,2012,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,14.61541357
+Sri Lanka,LKA,2011,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,14.81257766
+Sri Lanka,LKA,2010,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,15.09222496
+Sri Lanka,LKA,2009,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,15.37150567
+Sri Lanka,LKA,2008,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,15.66043757
+Sri Lanka,LKA,2007,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,15.96358079
+Sri Lanka,LKA,2006,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,16.27479918
+Sri Lanka,LKA,2005,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,16.59032006
+Sri Lanka,LKA,2004,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,16.90561675
+Sri Lanka,LKA,2003,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,17.23537909
+Sri Lanka,LKA,2002,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,17.5806934
+Sri Lanka,LKA,2001,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,17.97324485
+Sri Lanka,LKA,2000,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,18.15847603
+Sri Lanka,LKA,1999,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,18.38876833
+Sri Lanka,LKA,1998,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,18.62984891
+Sri Lanka,LKA,1997,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,18.87874725
+Sri Lanka,LKA,1996,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,19.13415422
+Sri Lanka,LKA,1995,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,19.39641132
+Sri Lanka,LKA,1994,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,19.61092376
+Sri Lanka,LKA,1993,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,19.78746614
+Sri Lanka,LKA,1992,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,20.01503178
+Sri Lanka,LKA,1991,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,20.22190352
+Sri Lanka,LKA,1990,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,20.26112135
+Sri Lanka,LKA,1989,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,20.27678343
+Sri Lanka,LKA,1988,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,20.37785617
+Sri Lanka,LKA,1987,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,20.470223
+Sri Lanka,LKA,1986,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,20.59679882
+Sri Lanka,LKA,1985,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,20.72833401
+Sri Lanka,LKA,1984,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,20.74927764
+Sri Lanka,LKA,1983,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,20.70557637
+Sri Lanka,LKA,1982,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,20.72769839
+Sri Lanka,LKA,1981,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,20.86747824
+Sri Lanka,LKA,1980,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,21.20033459
+Sri Lanka,LKA,1979,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,21.60988238
+Sri Lanka,LKA,1978,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,22.03734837
+Sri Lanka,LKA,1977,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,22.46677615
+Sri Lanka,LKA,1976,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,22.89850466
+Sri Lanka,LKA,1975,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,23.33847208
+Sri Lanka,LKA,1974,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,23.78770788
+Sri Lanka,LKA,1973,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,24.25585548
+Sri Lanka,LKA,1972,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,24.75628705
+Sri Lanka,LKA,1971,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,25.23990326
+Sri Lanka,LKA,1970,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,25.6333806
+Sri Lanka,LKA,1969,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,26.06276086
+Sri Lanka,LKA,1968,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,26.52447175
+Sri Lanka,LKA,1967,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,27.01187748
+Sri Lanka,LKA,1966,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,27.51107088
+Sri Lanka,LKA,1965,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,28.02055578
+Sri Lanka,LKA,1964,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,28.54716151
+Sri Lanka,LKA,1963,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,29.08682486
+Sri Lanka,LKA,1962,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,29.56773135
+Sri Lanka,LKA,1961,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,30.05332103
+Sri Lanka,LKA,1960,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,30.54886949
+Sri Lanka,LKA,2019,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,19.7
+Sri Lanka,LKA,2018,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,17.9
+Sri Lanka,LKA,2017,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,16.3
+Sri Lanka,LKA,2016,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,14.7
+Sri Lanka,LKA,2015,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,13.9
+Sri Lanka,LKA,2014,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,12.1
+Sri Lanka,LKA,2013,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,12.6
+Sri Lanka,LKA,2012,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,12.9
+Sri Lanka,LKA,2011,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,14.1
+Sri Lanka,LKA,2010,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,14.2
+Sri Lanka,LKA,2009,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,14.3
+Sri Lanka,LKA,2008,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,14.2
+Sri Lanka,LKA,2007,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,14.4
+Sri Lanka,LKA,2006,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,14.4
+Sri Lanka,LKA,2005,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,14.9
+Sri Lanka,LKA,2004,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,14.7
+Sri Lanka,LKA,2003,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,15
+Sri Lanka,LKA,2002,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,15.1
+Sri Lanka,LKA,2001,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,15.3
+Sri Lanka,LKA,2000,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,15.1
+Sri Lanka,LKA,2023,Urban population growth (annual %),SP.URB.GROW,0.316335684
+Sri Lanka,LKA,2022,Urban population growth (annual %),SP.URB.GROW,0.989080403
+Sri Lanka,LKA,2021,Urban population growth (annual %),SP.URB.GROW,1.857951759
+Sri Lanka,LKA,2020,Urban population growth (annual %),SP.URB.GROW,1.21697057
+Sri Lanka,LKA,2019,Urban population growth (annual %),SP.URB.GROW,1.200113165
+Sri Lanka,LKA,2018,Urban population growth (annual %),SP.URB.GROW,1.547574095
+Sri Lanka,LKA,2017,Urban population growth (annual %),SP.URB.GROW,1.499802259
+Sri Lanka,LKA,2016,Urban population growth (annual %),SP.URB.GROW,1.434100884
+Sri Lanka,LKA,2015,Urban population growth (annual %),SP.URB.GROW,1.128174539
+Sri Lanka,LKA,2014,Urban population growth (annual %),SP.URB.GROW,1.043056733
+Sri Lanka,LKA,2013,Urban population growth (annual %),SP.URB.GROW,-2.788710882
+Sri Lanka,LKA,2012,Urban population growth (annual %),SP.URB.GROW,0.678230247
+Sri Lanka,LKA,2011,Urban population growth (annual %),SP.URB.GROW,0.538173879
+Sri Lanka,LKA,2010,Urban population growth (annual %),SP.URB.GROW,0.501436018
+Sri Lanka,LKA,2009,Urban population growth (annual %),SP.URB.GROW,0.531811422
+Sri Lanka,LKA,2008,Urban population growth (annual %),SP.URB.GROW,0.583382387
+Sri Lanka,LKA,2007,Urban population growth (annual %),SP.URB.GROW,0.598653329
+Sri Lanka,LKA,2006,Urban population growth (annual %),SP.URB.GROW,0.587934322
+Sri Lanka,LKA,2005,Urban population growth (annual %),SP.URB.GROW,0.55235329
+Sri Lanka,LKA,2004,Urban population growth (annual %),SP.URB.GROW,0.597895416
+Sri Lanka,LKA,2003,Urban population growth (annual %),SP.URB.GROW,0.651532069
+Sri Lanka,LKA,2002,Urban population growth (annual %),SP.URB.GROW,0.955277709
+Sri Lanka,LKA,2001,Urban population growth (annual %),SP.URB.GROW,1.498642104
+Sri Lanka,LKA,2000,Urban population growth (annual %),SP.URB.GROW,1.734898308
+Sri Lanka,LKA,1999,Urban population growth (annual %),SP.URB.GROW,1.776423248
+Sri Lanka,LKA,1998,Urban population growth (annual %),SP.URB.GROW,1.801146372
+Sri Lanka,LKA,1997,Urban population growth (annual %),SP.URB.GROW,1.817192688
+Sri Lanka,LKA,1996,Urban population growth (annual %),SP.URB.GROW,1.835834738
+Sri Lanka,LKA,1995,Urban population growth (annual %),SP.URB.GROW,1.573774229
+Sri Lanka,LKA,1994,Urban population growth (annual %),SP.URB.GROW,1.370272554
+Sri Lanka,LKA,1993,Urban population growth (annual %),SP.URB.GROW,1.616755728
+Sri Lanka,LKA,1992,Urban population growth (annual %),SP.URB.GROW,1.50282409
+Sri Lanka,LKA,1991,Urban population growth (annual %),SP.URB.GROW,0.667791117
+Sri Lanka,LKA,1990,Urban population growth (annual %),SP.URB.GROW,0.551116511
+Sri Lanka,LKA,1989,Urban population growth (annual %),SP.URB.GROW,0.970533637
+Sri Lanka,LKA,1988,Urban population growth (annual %),SP.URB.GROW,0.926812714
+Sri Lanka,LKA,1987,Urban population growth (annual %),SP.URB.GROW,1.090445197
+Sri Lanka,LKA,1986,Urban population growth (annual %),SP.URB.GROW,1.110520068
+Sri Lanka,LKA,1985,Urban population growth (annual %),SP.URB.GROW,0.574327256
+Sri Lanka,LKA,1984,Urban population growth (annual %),SP.URB.GROW,0.263742873
+Sri Lanka,LKA,1983,Urban population growth (annual %),SP.URB.GROW,0.580752337
+Sri Lanka,LKA,1982,Urban population growth (annual %),SP.URB.GROW,1.146115457
+Sri Lanka,LKA,1981,Urban population growth (annual %),SP.URB.GROW,2.049391682
+Sri Lanka,LKA,1980,Urban population growth (annual %),SP.URB.GROW,2.379019182
+Sri Lanka,LKA,1979,Urban population growth (annual %),SP.URB.GROW,2.423857914
+Sri Lanka,LKA,1978,Urban population growth (annual %),SP.URB.GROW,2.394879663
+Sri Lanka,LKA,1977,Urban population growth (annual %),SP.URB.GROW,2.367776109
+Sri Lanka,LKA,1976,Urban population growth (annual %),SP.URB.GROW,2.368823253
+Sri Lanka,LKA,1975,Urban population growth (annual %),SP.URB.GROW,2.37161873
+Sri Lanka,LKA,1974,Urban population growth (annual %),SP.URB.GROW,2.414001781
+Sri Lanka,LKA,1973,Urban population growth (annual %),SP.URB.GROW,2.506397301
+Sri Lanka,LKA,1972,Urban population growth (annual %),SP.URB.GROW,2.586951431
+Sri Lanka,LKA,1971,Urban population growth (annual %),SP.URB.GROW,2.693201692
+Sri Lanka,LKA,1970,Urban population growth (annual %),SP.URB.GROW,2.807455498
+Sri Lanka,LKA,1969,Urban population growth (annual %),SP.URB.GROW,2.900796168
+Sri Lanka,LKA,1968,Urban population growth (annual %),SP.URB.GROW,2.968646951
+Sri Lanka,LKA,1967,Urban population growth (annual %),SP.URB.GROW,2.977342486
+Sri Lanka,LKA,1966,Urban population growth (annual %),SP.URB.GROW,2.981252671
+Sri Lanka,LKA,1965,Urban population growth (annual %),SP.URB.GROW,3.006588166
+Sri Lanka,LKA,1964,Urban population growth (annual %),SP.URB.GROW,3.032665395
+Sri Lanka,LKA,1963,Urban population growth (annual %),SP.URB.GROW,3.415327803
+Sri Lanka,LKA,1962,Urban population growth (annual %),SP.URB.GROW,3.404333732
+Sri Lanka,LKA,1961,Urban population growth (annual %),SP.URB.GROW,3.408476226
+Sri Lanka,LKA,2023,Urban population,SP.URB.TOTL,4233528
+Sri Lanka,LKA,2022,Urban population,SP.URB.TOTL,4220157
+Sri Lanka,LKA,2021,Urban population,SP.URB.TOTL,4178622
+Sri Lanka,LKA,2020,Urban population,SP.URB.TOTL,4101702
+Sri Lanka,LKA,2019,Urban population,SP.URB.TOTL,4052088
+Sri Lanka,LKA,2018,Urban population,SP.URB.TOTL,4003749
+Sri Lanka,LKA,2017,Urban population,SP.URB.TOTL,3942265
+Sri Lanka,LKA,2016,Urban population,SP.URB.TOTL,3883580
+Sri Lanka,LKA,2015,Urban population,SP.URB.TOTL,3828283
+Sri Lanka,LKA,2014,Urban population,SP.URB.TOTL,3785336
+Sri Lanka,LKA,2013,Urban population,SP.URB.TOTL,3746058
+Sri Lanka,LKA,2012,Urban population,SP.URB.TOTL,3851995
+Sri Lanka,LKA,2011,Urban population,SP.URB.TOTL,3825958
+Sri Lanka,LKA,2010,Urban population,SP.URB.TOTL,3805423
+Sri Lanka,LKA,2009,Urban population,SP.URB.TOTL,3786389
+Sri Lanka,LKA,2008,Urban population,SP.URB.TOTL,3766306
+Sri Lanka,LKA,2007,Urban population,SP.URB.TOTL,3744398
+Sri Lanka,LKA,2006,Urban population,SP.URB.TOTL,3722049
+Sri Lanka,LKA,2005,Urban population,SP.URB.TOTL,3700230
+Sri Lanka,LKA,2004,Urban population,SP.URB.TOTL,3679848
+Sri Lanka,LKA,2003,Urban population,SP.URB.TOTL,3657912
+Sri Lanka,LKA,2002,Urban population,SP.URB.TOTL,3634157
+Sri Lanka,LKA,2001,Urban population,SP.URB.TOTL,3599606
+Sri Lanka,LKA,2000,Urban population,SP.URB.TOTL,3546063
+Sri Lanka,LKA,1999,Urban population,SP.URB.TOTL,3485073
+Sri Lanka,LKA,1998,Urban population,SP.URB.TOTL,3423710
+Sri Lanka,LKA,1997,Urban population,SP.URB.TOTL,3362596
+Sri Lanka,LKA,1996,Urban population,SP.URB.TOTL,3302043
+Sri Lanka,LKA,1995,Urban population,SP.URB.TOTL,3241976
+Sri Lanka,LKA,1994,Urban population,SP.URB.TOTL,3191354
+Sri Lanka,LKA,1993,Urban population,SP.URB.TOTL,3147922
+Sri Lanka,LKA,1992,Urban population,SP.URB.TOTL,3097437
+Sri Lanka,LKA,1991,Urban population,SP.URB.TOTL,3051236
+Sri Lanka,LKA,1990,Urban population,SP.URB.TOTL,3030928
+Sri Lanka,LKA,1989,Urban population,SP.URB.TOTL,3014270
+Sri Lanka,LKA,1988,Urban population,SP.URB.TOTL,2985157
+Sri Lanka,LKA,1987,Urban population,SP.URB.TOTL,2957618
+Sri Lanka,LKA,1986,Urban population,SP.URB.TOTL,2925542
+Sri Lanka,LKA,1985,Urban population,SP.URB.TOTL,2893233
+Sri Lanka,LKA,1984,Urban population,SP.URB.TOTL,2876664
+Sri Lanka,LKA,1983,Urban population,SP.URB.TOTL,2869087
+Sri Lanka,LKA,1982,Urban population,SP.URB.TOTL,2852473
+Sri Lanka,LKA,1981,Urban population,SP.URB.TOTL,2819967
+Sri Lanka,LKA,1980,Urban population,SP.URB.TOTL,2762763
+Sri Lanka,LKA,1979,Urban population,SP.URB.TOTL,2697812
+Sri Lanka,LKA,1978,Urban population,SP.URB.TOTL,2633207
+Sri Lanka,LKA,1977,Urban population,SP.URB.TOTL,2570894
+Sri Lanka,LKA,1976,Urban population,SP.URB.TOTL,2510736
+Sri Lanka,LKA,1975,Urban population,SP.URB.TOTL,2451960
+Sri Lanka,LKA,1974,Urban population,SP.URB.TOTL,2394493
+Sri Lanka,LKA,1973,Urban population,SP.URB.TOTL,2337382
+Sri Lanka,LKA,1972,Urban population,SP.URB.TOTL,2279526
+Sri Lanka,LKA,1971,Urban population,SP.URB.TOTL,2221312
+Sri Lanka,LKA,1970,Urban population,SP.URB.TOTL,2162286
+Sri Lanka,LKA,1969,Urban population,SP.URB.TOTL,2102425
+Sri Lanka,LKA,1968,Urban population,SP.URB.TOTL,2042314
+Sri Lanka,LKA,1967,Urban population,SP.URB.TOTL,1982576
+Sri Lanka,LKA,1966,Urban population,SP.URB.TOTL,1924418
+Sri Lanka,LKA,1965,Urban population,SP.URB.TOTL,1867893
+Sri Lanka,LKA,1964,Urban population,SP.URB.TOTL,1812569
+Sri Lanka,LKA,1963,Urban population,SP.URB.TOTL,1758425
+Sri Lanka,LKA,1962,Urban population,SP.URB.TOTL,1699383
+Sri Lanka,LKA,1961,Urban population,SP.URB.TOTL,1642504
+Sri Lanka,LKA,1960,Urban population,SP.URB.TOTL,1587463
+Sri Lanka,LKA,2023,Urban population (% of total population),SP.URB.TOTL.IN.ZS,19.211
+Sri Lanka,LKA,2022,Urban population (% of total population),SP.URB.TOTL.IN.ZS,19.026
+Sri Lanka,LKA,2021,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.86
+Sri Lanka,LKA,2020,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.713
+Sri Lanka,LKA,2019,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.585
+Sri Lanka,LKA,2018,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.476
+Sri Lanka,LKA,2017,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.384
+Sri Lanka,LKA,2016,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.311
+Sri Lanka,LKA,2015,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.256
+Sri Lanka,LKA,2014,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.218
+Sri Lanka,LKA,2013,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.198
+Sri Lanka,LKA,2012,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.196
+Sri Lanka,LKA,2011,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.211
+Sri Lanka,LKA,2010,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.226
+Sri Lanka,LKA,2009,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.242
+Sri Lanka,LKA,2008,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.257
+Sri Lanka,LKA,2007,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.272
+Sri Lanka,LKA,2006,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.288
+Sri Lanka,LKA,2005,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.303
+Sri Lanka,LKA,2004,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.319
+Sri Lanka,LKA,2003,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.334
+Sri Lanka,LKA,2002,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.349
+Sri Lanka,LKA,2001,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.365
+Sri Lanka,LKA,2000,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.38
+Sri Lanka,LKA,1999,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.396
+Sri Lanka,LKA,1998,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.411
+Sri Lanka,LKA,1997,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.427
+Sri Lanka,LKA,1996,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.442
+Sri Lanka,LKA,1995,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.458
+Sri Lanka,LKA,1994,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.473
+Sri Lanka,LKA,1993,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.489
+Sri Lanka,LKA,1992,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.504
+Sri Lanka,LKA,1991,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.52
+Sri Lanka,LKA,1990,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.535
+Sri Lanka,LKA,1989,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.551
+Sri Lanka,LKA,1988,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.566
+Sri Lanka,LKA,1987,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.582
+Sri Lanka,LKA,1986,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.597
+Sri Lanka,LKA,1985,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.613
+Sri Lanka,LKA,1984,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.629
+Sri Lanka,LKA,1983,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.644
+Sri Lanka,LKA,1982,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.66
+Sri Lanka,LKA,1981,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.676
+Sri Lanka,LKA,1980,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.607
+Sri Lanka,LKA,1979,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.504
+Sri Lanka,LKA,1978,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.401
+Sri Lanka,LKA,1977,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.299
+Sri Lanka,LKA,1976,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.198
+Sri Lanka,LKA,1975,Urban population (% of total population),SP.URB.TOTL.IN.ZS,18.097
+Sri Lanka,LKA,1974,Urban population (% of total population),SP.URB.TOTL.IN.ZS,17.996
+Sri Lanka,LKA,1973,Urban population (% of total population),SP.URB.TOTL.IN.ZS,17.896
+Sri Lanka,LKA,1972,Urban population (% of total population),SP.URB.TOTL.IN.ZS,17.796
+Sri Lanka,LKA,1971,Urban population (% of total population),SP.URB.TOTL.IN.ZS,17.697
+Sri Lanka,LKA,1970,Urban population (% of total population),SP.URB.TOTL.IN.ZS,17.598
+Sri Lanka,LKA,1969,Urban population (% of total population),SP.URB.TOTL.IN.ZS,17.5
+Sri Lanka,LKA,1968,Urban population (% of total population),SP.URB.TOTL.IN.ZS,17.402
+Sri Lanka,LKA,1967,Urban population (% of total population),SP.URB.TOTL.IN.ZS,17.304
+Sri Lanka,LKA,1966,Urban population (% of total population),SP.URB.TOTL.IN.ZS,17.207
+Sri Lanka,LKA,1965,Urban population (% of total population),SP.URB.TOTL.IN.ZS,17.11
+Sri Lanka,LKA,1964,Urban population (% of total population),SP.URB.TOTL.IN.ZS,17.014
+Sri Lanka,LKA,1963,Urban population (% of total population),SP.URB.TOTL.IN.ZS,16.916
+Sri Lanka,LKA,1962,Urban population (% of total population),SP.URB.TOTL.IN.ZS,16.753
+Sri Lanka,LKA,1961,Urban population (% of total population),SP.URB.TOTL.IN.ZS,16.592
+Sri Lanka,LKA,1960,Urban population (% of total population),SP.URB.TOTL.IN.ZS,16.431
