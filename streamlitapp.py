@@ -141,7 +141,7 @@ def main():
     
     # Title and Introduction
     st.markdown('<div class="main-header">Urban Development Dashboard: Sri Lanka</div>', unsafe_allow_html=True)
-    st.markdown('<div class="sub-header">Explore trends in urban indicators across categories (Population, Area, Infrastructure) from 2000 to 2021</div>', unsafe_allow_html=True)
+    st.markdown('<div class="sub-header">Explore trends in urban indicators across categories (Population, Area, Infrastructure) from 1960 to 2023</div>', unsafe_allow_html=True)
     
     # File uploader
     if 'uploaded_file' not in st.session_state:
