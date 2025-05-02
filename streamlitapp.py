@@ -18,18 +18,8 @@ st.set_page_config(
 def load_data():
     # In a real scenario, you'd upload and read your CSV file
     # Since you've uploaded a file, we'll create a placeholder for the data structure
-    try:
-        # Try to read the uploaded file if available
-        uploaded_file = st.session_state.get(r"C:\Users\HP\OneDrive\Documents\GitHub\ICW20230777\cleaned_urban_data.csv", None)
-        if uploaded_file is not None:
-            data = pd.read_csv(uploaded_file)
-            return data
-        else:
-            st.error("Please upload your dataset first!")
-            return None
-    except Exception as e:
-        st.error(f"Error loading data: {e}")
-        return None
+    df=pd.read_csv("cleaned_urban_data.csv")
+    return df
 
 # Function to categorize indicators
 def categorize_indicators(indicators):
