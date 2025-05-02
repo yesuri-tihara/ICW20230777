@@ -506,7 +506,7 @@ def main():
     st.markdown("""
     <footer>
         <p><strong>Data Limitations and Notes:</strong></p>
-        <p>This dashboard presents urban development indicators for Sri Lanka from 2000 to 2021. 
+        <p>This dashboard presents urban development indicators for Sri Lanka from 1960 to 2023. 
         Some indicators may have missing data for certain years. 
         All data is sourced from official statistics and international development databases.</p>
         <p>© 2025 Urban Development Dashboard</p>
