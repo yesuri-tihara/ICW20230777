@@ -20,7 +20,7 @@ def load_data():
     # Since you've uploaded a file, we'll create a placeholder for the data structure
     try:
         # Try to read the uploaded file if available
-        uploaded_file = st.session_state.get('cleaned_urban_data.csv', None)
+        uploaded_file = st.session_state.get(r"C:\Users\HP\OneDrive\Documents\GitHub\ICW20230777\cleaned_urban_data.csv", None)
         if uploaded_file is not None:
             data = pd.read_csv(uploaded_file)
             return data
