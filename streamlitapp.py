@@ -143,13 +143,6 @@ def main():
     st.markdown('<div class="main-header">Urban Development Dashboard: Sri Lanka</div>', unsafe_allow_html=True)
     st.markdown('<div class="sub-header">Explore trends in urban indicators across categories (Population, Area, Infrastructure) from 1960 to 2023</div>', unsafe_allow_html=True)
     
-    # File uploader
-    if 'uploaded_file' not in st.session_state:
-        uploaded = file_uploader()
-        if not uploaded:
-            st.info("Please upload your dataset to continue.")
-            return
-    
     # Load data
     data = load_data()
     if data is None:
