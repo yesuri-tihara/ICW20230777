@@ -50,15 +50,6 @@ div.block-container::before {
 """, unsafe_allow_html=True)
 
 
-
-# More dashboard elements
-st.subheader("Dashboard Controls")
-option = st.selectbox(
-    'Choose an option',
-    ['Option 1', 'Option 2', 'Option 3'])
-
-st.write('You selected:', option) 
-
 # Load data
 @st.cache_data
 def load_data():
