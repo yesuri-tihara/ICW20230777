@@ -374,7 +374,7 @@ def main():
         
         # Since we don't have actual map data, display placeholder info
         st.markdown("""
-        <div class="info-box">
+        <div style="color: #00BFFF;">
             <h4>Sri Lanka's Urban Geography</h4>
             <p>Sri Lanka is an island nation in South Asia with significant urban centers including Colombo (the commercial capital), 
             Sri Jayawardenepura Kotte (the administrative capital), Kandy, Galle, and Jaffna. The country's urbanization patterns
