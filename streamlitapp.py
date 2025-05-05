@@ -178,8 +178,9 @@ def main():
     apply_custom_css()
     
     # Title and Introduction
-    st.markdown('<div class="main-header" style="color: #39FF14;">Urban Development: Sri Lanka</div>', unsafe_allow_html=True)
-    st.markdown('<div class="sub-header" style="color: #FF9933;">Explore trends in urban indicators across categories (Population, Area, Infrastructure) from 1960 to 2023</div>', unsafe_allow_html=True)
+    st.markdown('<div class="main-header" style="color: #39FF14; text-shadow: 0 0 5px rgba(57, 255, 20, 0.7);">Urban Development: Sri Lanka</div>', unsafe_allow_html=True)
+    st.markdown('<div class="sub-header" style="color: #39FF14; text-shadow: 0 0 3px rgba(57, 255, 20, 0.5);">Explore trends in urban indicators across categories (Population)</div>', unsafe_allow_html=True)
+   
     
     # Load data
     data = load_data()
