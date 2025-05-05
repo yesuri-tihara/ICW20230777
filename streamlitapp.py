@@ -51,14 +51,6 @@ div.block-container::before {
 
 
 
-# Example chart
-import numpy as np
-import pandas as pd
-chart_data = pd.DataFrame(
-    np.random.randn(20, 3),
-    columns=['A', 'B', 'C'])
-st.line_chart(chart_data)
-
 # More dashboard elements
 st.subheader("Dashboard Controls")
 option = st.selectbox(
