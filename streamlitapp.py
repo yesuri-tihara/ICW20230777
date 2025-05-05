@@ -26,7 +26,7 @@ div.block-container {
     position: relative;
     margin-top: 65px;
     margin-bottom: 10px;
-    border: 2px solid #39FF14;
+    border: 2px solid #0047AB;
     border-radius: 8px;
     padding: 10px;
     box-shadow: 0 0 15px rgba(57, 255, 20, 0.3);
@@ -36,7 +36,7 @@ div.block-container::before {
     content: "";
     width: 12px;
     height: 12px;
-    background-color: #39FF14;
+    background-color: #0047AB;
     border-radius: 50%;
     position: absolute;
     animation: border-runner 12s linear infinite;
