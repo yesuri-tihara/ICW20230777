@@ -11,7 +11,65 @@ st.set_page_config(
     page_icon="🏙️",
     layout="wide"
 )
-  
+
+import streamlit as st
+
+# Apply the animated border styling
+st.markdown("""
+<style>
+@keyframes border-runner {
+    0%   { top: 0; left: 0; }
+    25%  { top: 0; left: 100%; transform: translateX(-100%); }
+    50%  { top: 100%; left: 100%; transform: translate(-100%, -100%); }
+    75%  { top: 100%; left: 0; transform: translateY(-100%); }
+    100% { top: 0; left: 0; }
+}
+
+div.block-container {
+    position: relative;
+    margin-top: 65px;
+    margin-bottom: 10px;
+    border: 2px solid #39FF14;  /* Bright neon green border */
+    border-radius: 8px;
+    padding: 10px;
+    box-shadow: 0 0 15px rgba(57, 255, 20, 0.3);
+}
+
+div.block-container::before {
+    content: "";
+    width: 12px;
+    height: 12px;
+    background-color: #39FF14;
+    border-radius: 50%;
+    position: absolute;
+    animation: border-runner 12s linear infinite;
+    box-shadow: 0 0 10px 4px rgba(57, 255, 20, 0.6);
+    z-index: 999;
+}
+</style>
+""", unsafe_allow_html=True)
+
+
+# Add some example content
+st.header("Sample Content")
+st.write("Here's some sample content for your dashboard.")
+
+# Example chart
+import numpy as np
+import pandas as pd
+chart_data = pd.DataFrame(
+    np.random.randn(20, 3),
+    columns=['A', 'B', 'C'])
+st.line_chart(chart_data)
+
+# More dashboard elements
+st.subheader("Dashboard Controls")
+option = st.selectbox(
+    'Choose an option',
+    ['Option 1', 'Option 2', 'Option 3'])
+
+st.write('You selected:', option) 
+
 # Load data
 @st.cache_data
 def load_data():
