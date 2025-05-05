@@ -1,7 +1,8 @@
-streamlit>=1.22.0
+streamlit
 pandas
 numpy
 plotly
 datetime
 folium
-streamlit-folium
+streamlit
+statsmodels
