@@ -130,15 +130,20 @@ def apply_custom_css():
         .stTabs [data-baseweb="tab"] {
             height: 50px;
             white-space: pre-wrap;
-            background-color: #f0f2f6;
+            background-color: #0d47a1;
             border-radius: 5px 5px 0px 0px;
             gap: 1px;
             padding-top: 10px;
             padding-bottom: 10px;
+            font-size: 16px;
+            font-weight: bold;
+            color: white;
         }
         .stTabs [aria-selected="true"] {
             background-color: #1E88E5;
             color: white;
+            font-size: 16px;
+            font-weight:bold;
         }
         .info-box {
             background-color: #e3f2fd;
