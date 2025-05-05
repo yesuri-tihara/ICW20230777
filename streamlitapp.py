@@ -390,7 +390,7 @@ def main():
         
         with col1:
             st.markdown("""
-            <div style="background-color: #0e1117; padding: 15px;">
+            <div style="color: #00BFFF;">
                 <h4>Key Insights</h4>
                 <ul>
                     <li>Urban population has been steadily increasing over the years</li>
@@ -403,7 +403,7 @@ def main():
             
         with col2:
             st.markdown("""
-            <div style="background-color: #0e1117; padding: 15px;">
+            <div style="color: #00BFFF;">
                 <h4>Policy Recommendations</h4>
                 <ul>
                     <li>Focus on sustainable urban expansion to accommodate growing population</li>
