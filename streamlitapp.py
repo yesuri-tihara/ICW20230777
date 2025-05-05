@@ -7,48 +7,10 @@ from io import BytesIO
 
 # Set page configuration
 st.set_page_config(
-    page_title="Urban Development: Sri Lanka",
+    page_title="Urban Development Dashboard: Sri Lanka",
     page_icon="🏙️",
     layout="wide"
 )
-
-import streamlit as st
-
-# Apply the animated border styling
-st.markdown("""
-<style>
-@keyframes border-runner {
-    0%   { top: 0; left: 0; }
-    25%  { top: 0; left: 100%; transform: translateX(-100%); }
-    50%  { top: 100%; left: 100%; transform: translate(-100%, -100%); }
-    75%  { top: 100%; left: 0; transform: translateY(-100%); }
-    100% { top: 0; left: 0; }
-}
-
-div.block-container {
-    position: relative;
-    margin-top: 65px;
-    margin-bottom: 10px;
-    border: 2px solid #39FF14;  /* Bright neon green border */
-    border-radius: 8px;
-    padding: 10px;
-    box-shadow: 0 0 15px rgba(57, 255, 20, 0.3);
-}
-
-div.block-container::before {
-    content: "";
-    width: 12px;
-    height: 12px;
-    background-color: #39FF14;
-    border-radius: 50%;
-    position: absolute;
-    animation: border-runner 12s linear infinite;
-    box-shadow: 0 0 10px 4px rgba(57, 255, 20, 0.6);
-    z-index: 999;
-}
-</style>
-""", unsafe_allow_html=True)
-
 
 # Load data
 @st.cache_data
@@ -135,20 +97,15 @@ def apply_custom_css():
         .stTabs [data-baseweb="tab"] {
             height: 50px;
             white-space: pre-wrap;
-            background-color: #0d47a1;
+            background-color: #f0f2f6;
             border-radius: 5px 5px 0px 0px;
             gap: 1px;
             padding-top: 10px;
             padding-bottom: 10px;
-            font-size: 16px;
-            font-weight: bold;
-            color: white;    
         }
         .stTabs [aria-selected="true"] {
             background-color: #1E88E5;
             color: white;
-            font-size: 16px; 
-            font-weight: bold;
         }
         .info-box {
             background-color: #e3f2fd;
@@ -178,9 +135,15 @@ def main():
     apply_custom_css()
     
     # Title and Introduction
-    st.markdown('<div class="main-header" style="color: #39FF14; text-shadow: 0 0 5px rgba(57, 255, 20, 0.7);">Urban Development: Sri Lanka</div>', unsafe_allow_html=True)
-    st.markdown('<div class="sub-header" style="color: #39FF14; text-shadow: 0 0 3px rgba(57, 255, 20, 0.5);">Explore trends in urban indicators across categories (Population)</div>', unsafe_allow_html=True)
-   
+    st.markdown('<div class="main-header">Urban Development Dashboard: Sri Lanka</div>', unsafe_allow_html=True)
+    st.markdown('<div class="sub-header">Explore trends in urban indicators across categories (Population, Area, Infrastructure) from 2000 to 2021</div>', unsafe_allow_html=True)
+    
+    # File uploader
+    if 'uploaded_file' not in st.session_state:
+        uploaded = file_uploader()
+        if not uploaded:
+            st.info("Please upload your dataset to continue.")
+            return
     
     # Load data
     data = load_data()
@@ -538,7 +501,7 @@ def main():
     st.markdown("""
     <footer>
         <p><strong>Data Limitations and Notes:</strong></p>
-        <p>This dashboard presents urban development indicators for Sri Lanka from 1960 to 2023. 
+        <p>This dashboard presents urban development indicators for Sri Lanka from 2000 to 2021. 
         Some indicators may have missing data for certain years. 
         All data is sourced from official statistics and international development databases.</p>
         <p>© 2025 Urban Development Dashboard</p>
