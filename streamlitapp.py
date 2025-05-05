@@ -7,7 +7,7 @@ from io import BytesIO
 
 # Set page configuration
 st.set_page_config(
-    page_title="Urban Development Dashboard: Sri Lanka",
+    page_title="Urban Development: Sri Lanka",
     page_icon="🏙️",
     layout="wide"
 )
