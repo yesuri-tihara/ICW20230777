@@ -50,9 +50,6 @@ div.block-container::before {
 """, unsafe_allow_html=True)
 
 
-# Add some example content
-st.header("Sample Content")
-st.write("Here's some sample content for your dashboard.")
 
 # Example chart
 import numpy as np
