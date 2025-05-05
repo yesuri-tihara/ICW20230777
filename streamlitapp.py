@@ -174,7 +174,7 @@ def main():
     
     # Title and Introduction
     st.markdown('<div class="main-header">URBAN DEVELOPMENT: SRI LANKA</div>', unsafe_allow_html=True)
-    st.markdown('<div class="sub-header">Explore trends in urban indicators across categories (Population, Area, Infrastructure) from 2000 to 2021</div>', unsafe_allow_html=True)
+    st.markdown('<div class="sub-header">Explore trends in urban indicators across categories (Population, Area, Infrastructure) from 1960 to 2023</div>', unsafe_allow_html=True)
     
     
     # Load data
