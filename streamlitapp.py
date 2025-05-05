@@ -12,6 +12,39 @@ st.set_page_config(
     layout="wide"
 )
 
+st.markdown("""
+<style>
+@keyframes border-runner {
+    0%   { top: 0; left: 0; }
+    25%  { top: 0; left: 100%; transform: translateX(-100%); }
+    50%  { top: 100%; left: 100%; transform: translate(-100%, -100%); }
+    75%  { top: 100%; left: 0; transform: translateY(-100%); }
+    100% { top: 0; left: 0; }
+}
+
+div.block-container {
+    position: relative;
+    margin-top: 65px;
+    margin-bottom: 10px;
+    border: 2px solid #39FF14;
+    border-radius: 8px;
+    padding: 10px;
+    box-shadow: 0 0 15px rgba(57, 255, 20, 0.3);
+}
+
+div.block-container::before {
+    content: "";
+    width: 12px;
+    height: 12px;
+    background-color: #39FF14;
+    border-radius: 50%;
+    position: absolute;
+    animation: border-runner 12s linear infinite;
+    box-shadow: 0 0 10px 4px rgba(57, 255, 20, 0.6);
+    z-index: 999;
+}
+</style>
+""", unsafe_allow_html=True)
 # Load data
 @st.cache_data
 def load_data():
@@ -138,12 +171,6 @@ def main():
     st.markdown('<div class="main-header">Urban Development Dashboard: Sri Lanka</div>', unsafe_allow_html=True)
     st.markdown('<div class="sub-header">Explore trends in urban indicators across categories (Population, Area, Infrastructure) from 2000 to 2021</div>', unsafe_allow_html=True)
     
-    # File uploader
-    if 'uploaded_file' not in st.session_state:
-        uploaded = file_uploader()
-        if not uploaded:
-            st.info("Please upload your dataset to continue.")
-            return
     
     # Load data
     data = load_data()
