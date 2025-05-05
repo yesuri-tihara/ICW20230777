@@ -45,6 +45,7 @@ div.block-container::before {
 }
 </style>
 """, unsafe_allow_html=True)
+
 # Load data
 @st.cache_data
 def load_data():
