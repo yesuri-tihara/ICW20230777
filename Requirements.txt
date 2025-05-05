@@ -2,6 +2,7 @@ streamlit>=1.22.0
 pandas
 numpy
 plotly
+plotly.express
 datetime
 folium
 streamlit-folium

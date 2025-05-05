@@ -152,6 +152,30 @@ def apply_custom_css():
             border-radius: 5px;
             margin-bottom: 10px;
         }
+        .overview-card {
+            background-color: #f5f5f5;
+            border-radius: 10px;
+            padding: 20px;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        .overview-metric {
+            font-size: 2rem;
+            font-weight: bold;
+            color: #1E88E5;
+        }
+        .overview-title {
+            font-size: 1rem;
+            color: #616161;
+            margin-bottom: 5px;
+        }
+        .category-header {
+            background-color: #bbdefb;
+            padding: 10px;
+            border-radius: 5px;
+            margin-bottom: 15px;
+            color: #0d47a1;
+        }
         footer {
             margin-top: 50px;
             text-align: center;
@@ -256,12 +280,139 @@ def main():
     chart_type = st.sidebar.radio("Chart Type", ["Line", "Bar"])
     
     # Main content area (Tabs)
-    tab1, tab2, tab3, tab4 = st.tabs([
+    tab0, tab1, tab2, tab3, tab4 = st.tabs([
+        "Overview",
         "Indicator Trend", 
         "Category Comparison", 
         "Yearly Snapshot", 
         "Summary Stats"
     ])
+    
+    # Tab 0: Overview Dashboard
+    with tab0:
+        st.header("Sri Lanka Urban Development Overview")
+        
+        # Introduction text
+        st.markdown("""
+        <div style="color: #00BFFF;">
+            This dashboard provides comprehensive insights into Sri Lanka's urban development trends across multiple indicators.
+            Explore population dynamics, land area changes, and infrastructure developments over time to understand Sri Lanka's urbanization patterns.
+        </div>
+        """, unsafe_allow_html=True)
+        
+        # Category Overview
+        st.subheader("Category Overviews")
+        
+        # Create tabs for each category
+        overview_tabs = st.tabs([category for category in categories.keys()])
+        
+        for i, category in enumerate(categories.keys()):
+            with overview_tabs[i]:
+                st.markdown(f'<div class="category-header"><h3>{category} Indicators Overview</h3></div>', unsafe_allow_html=True)
+                
+                # Filter data for this category and latest year
+                cat_data = latest_year_data[latest_year_data['Indicator Name'].isin(categories[category])]
+                
+                if not cat_data.empty:
+                    # Create metrics display
+                    for j, indicator in enumerate(categories[category]):
+                        indicator_value = cat_data[cat_data['Indicator Name'] == indicator]['Value'].values
+                        if len(indicator_value) > 0:
+                            formatted_value = format_value(indicator_value[0], indicator)
+                            st.metric(
+                                label=indicator,
+                                value=formatted_value
+                            )
+                        else:
+                            st.metric(
+                                label=indicator,
+                                value="No data"
+                            )
+                            
+                    # Show some historical trends for this category
+                    st.subheader(f"Historical Trends ({category})")
+                    
+                    # Get all data for this category between the year range
+                    historical_data = filtered_data[filtered_data['Indicator Name'].isin(categories[category])]
+                    
+                    if not historical_data.empty:
+                        # Create a line chart for all indicators in this category
+                        pivot_data = historical_data.pivot_table(
+                            index='Year',
+                            columns='Indicator Name',
+                            values='Value'
+                        ).reset_index()
+                        
+                        fig = go.Figure()
+                        
+                        for indicator in categories[category]:
+                            if indicator in pivot_data.columns:
+                                fig.add_trace(
+                                    go.Scatter(
+                                        x=pivot_data['Year'], 
+                                        y=pivot_data[indicator],
+                                        mode='lines+markers',
+                                        name=indicator
+                                    )
+                                )
+                        
+                        fig.update_layout(
+                            title=f"{category} Indicators Over Time",
+                            xaxis_title="Year",
+                            yaxis_title="Value",
+                            height=400,
+                            template='plotly_white',
+                            legend_title="Indicator"
+                        )
+                        
+                        st.plotly_chart(fig, use_container_width=True)
+                else:
+                    st.warning(f"No data available for {category} indicators in {latest_year}.")
+        
+        # Map visualization (if available)
+        st.subheader("Geographical Context")
+        
+        # Since we don't have actual map data, display placeholder info
+        st.markdown("""
+        <div class="info-box">
+            <h4>Sri Lanka's Urban Geography</h4>
+            <p>Sri Lanka is an island nation in South Asia with significant urban centers including Colombo (the commercial capital), 
+            Sri Jayawardenepura Kotte (the administrative capital), Kandy, Galle, and Jaffna. The country's urbanization patterns
+            are influenced by historical colonial development, coastal preferences, and economic opportunities.</p>
+            <p>Note: Detailed geographical visualization would require additional GIS data not included in the current dataset.</p>
+        </div>
+        """, unsafe_allow_html=True)
+        
+        # Recommendations based on data
+        st.subheader("Key Insights & Recommendations")
+        
+        col1, col2 = st.columns(2)
+        
+        with col1:
+            st.markdown("""
+            <div class="overview-card">
+                <h4>Key Insights</h4>
+                <ul>
+                    <li>Urban population has been steadily increasing over the years</li>
+                    <li>Infrastructure development shows varying patterns across different indicators</li>
+                    <li>Urban land area expansion correlates with population growth</li>
+                    <li>Environmental challenges like air pollution show concerning trends</li>
+                </ul>
+            </div>
+            """, unsafe_allow_html=True)
+            
+        with col2:
+            st.markdown("""
+            <div class="overview-card">
+                <h4>Policy Recommendations</h4>
+                <ul>
+                    <li>Focus on sustainable urban expansion to accommodate growing population</li>
+                    <li>Improve urban infrastructure, particularly in areas with rapid population growth</li>
+                    <li>Implement environmental protections to mitigate pollution challenges</li>
+                    <li>Develop resilience strategies for urban areas in low elevation coastal zones</li>
+                </ul>
+            </div>
+            """, unsafe_allow_html=True)
     
     # Tab 1: Indicator Trend
     with tab1:
@@ -543,12 +694,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-
-
-
-
-
-
-
